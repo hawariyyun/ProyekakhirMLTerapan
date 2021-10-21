@@ -70,13 +70,13 @@ Visualisasi data menjelaskan bagaimana pengelompokkan genre musik yang ada terha
 
 ### Pengecekan null data dan Menghapus Kolom yang tidak diperlukan
 
-Melihat apakah terdapat data kosong pada dataset dengan menggunakan fungsi isnull() dan mengembalikan jumlah data kosong tersebut pada output \
-Menghapus kolom Unnamed: 0 dan title menggunakan fungsi drop(). Menghapus data kosong pada kolom song_name menggunakan fungsi dropna()
+Melihat apakah terdapat data kosong pada dataset dengan menggunakan fungsi isnull() dan mengembalikan jumlah data kosong tersebut pada output.
+Menghapus kolom Unnamed: 0 dan title menggunakan fungsi drop(). Menghapus data kosong pada kolom song_name menggunakan fungsi dropna(). Pengecekan dan penghapusan kolom maupun tuple dataset yang bernilai kosong berguna untuk mempermudah proses dalam analisis dan membangun model.
 
 ### Normalisasi menggunakan MinMaxScaler
 
-Normalisasi menggunakan minmax secara manual, hal ini bertujuan untuk memastikan data berada pada rentang nilai 0 hingga 1 \
-Hasil normalisasi menggunakan minmax dapat dilihat seperti berikut, dataset bertipe numerik berada pada rendang nilai 0 hingga 1.
+Normalisasi menggunakan minmax secara manual, hal ini bertujuan untuk memastikan data berada pada rentang nilai 0 hingga 1.
+Hasil normalisasi menggunakan minmax dapat dilihat seperti berikut, dataset bertipe numerik berada pada rendang nilai 0 hingga 1. Normalisasi berguna untuk mempermudah kalkulasi pada model, agar rentang input pada model lebih kecil tidak memakan banyak tempat pada memori dan mempercepat pemrosesan input tersebut.
 
 ## Modelling and Result
 
