@@ -63,12 +63,8 @@ Fitur-fitur pada dataset spotifyDataset.csv
 Pada tahapan ini dilakukan _importing libraries_ yang digunakan untuk menyelesaikan tahapan demi tahapan pada penyelesaian masalah sistem rekomendasi ini. Setelah _import library_ dilakukan pembacaan dataset yang digunakan untuk analisis dan melakukan rekomendasi.
 
 ### Visualisasi awal
-Membuat variabel cols yang berisikan list dari kolom ke 11 sampai akhir dataset dan menghapus kolom genre \
-menyalin dataset dan menyimpannya ke dalam variabel data \
-mengatur gaya visualisasi \
 Visualisasi data menjelaskan bagaimana pengelompokkan genre musik yang ada terhadap fitur \
 ![visualisasi genre](https://user-images.githubusercontent.com/82726099/137630224-761a545f-b589-4e27-b877-d7ab3fc570b8.png)
-Visualisasi sebaran data durasi musik terhadap genre 
 
 ## Data Preparation
 
