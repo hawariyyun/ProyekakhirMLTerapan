@@ -1,9 +1,9 @@
 # Laporan Proyek Machine Learning Terapan - Rifki Ramadani
 ## Project Overview
 
-Spotify merupakan platform penyedia musik populer pada masa sekarang, menyediakan musik dengan berbagai genre musik. Genre-genre musik yang ada tentunya berpengaruh dalam menentukan minat musik dari pengguna, misalkan seorang pengguna menyukai musik dengan genre pop saja, tentunya platform penyedia musik akan memberikan musik dengan genre sesuai dengan yang disukai oleh pengguna tersebut. Musik dengan genre yang memiliki kemiripan yang sama dapat diberikan kepada pengguna platform dengan menggunakan sistem rekomendasi. Sistem rekomendasi merupakan sistem yang merekomendasikan suatu hal berupa produk dalam rangka meningkatkan kuantitas penjualan produk dan kepuasaan pengguna layanan.\
-
-Sistem rekomendasi dapat diterapkan pada berbagai layanan seperti sistem rekomendasi hotel, restoran, _e-commerce_, musik, dan sebagainya.\
+Spotify merupakan platform penyedia musik populer pada masa sekarang, menyediakan musik dengan berbagai genre musik. Genre-genre musik yang ada tentunya berpengaruh dalam menentukan minat musik dari pengguna, misalkan seorang pengguna menyukai musik dengan genre pop saja, tentunya platform penyedia musik akan memberikan musik dengan genre sesuai dengan yang disukai oleh pengguna tersebut. Musik dengan genre yang memiliki kemiripan yang sama dapat diberikan kepada pengguna platform dengan menggunakan sistem rekomendasi. Sistem rekomendasi merupakan sistem yang merekomendasikan suatu hal berupa produk dalam rangka meningkatkan kuantitas penjualan produk dan kepuasaan pengguna layanan.
+\
+Sistem rekomendasi dapat diterapkan pada berbagai layanan seperti sistem rekomendasi hotel, restoran, _e-commerce_, musik, dan sebagainya.
 Contoh penerapan sistem rekomendasi menurut (Luh, Ni G.P.S, 2017) diterapkan pada rekomendasi pemilihan mobil menggunakan algoritma K-Nearest Neighbor dengan beberapa parameter seperti rentang harga, tujuan beli, kapasitas, dan sebagainya. Namun algoritma ini dapat dikembangkan dengan kombinasi menggunakan algoritma lain.
 \
 (Badriyah, Tessy dkk., 2018) menerapkan sistem rekomendasi berbasis penyaringan konten (_content based filtering_) pada _e-commerce_ dengan menganalisis pola-pola yang ada untuk meningkatkan kepuasan pelanggan dan keuntungan penjual termasuk _e-commerce_ itu sendiri
