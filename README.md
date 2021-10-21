@@ -28,7 +28,7 @@ Untuk menjawab permasalahan dapat dibangun sebuah sistem rekomendasi dengan tuju
 1.   Mengetahui cara kerja dari algoritma KMeans Clustering dalam merekomendasikan musik.
 2.   Membuat sistem rekomendasi musik dan mengetahui perbandingan parameter pembangun pada sistem rekomendasi yang dibuat.
 
-##% Solution Approach
+### Solution Approach
 Solusi yang diterapkan agar sistem rekomendasi musik pada spotify dataset ini dapat berjalan dengan baik menggunakan sistem rekomendasi _collaborative based filtering_ dengan metode berbasis model _cluster based algorithm_ menggunakan algoritma pengelompokkan KMeans. \
 Metrik yang digunakan dalam evaluasi sistem rekomendasi ini adalah metrik skor silhouette, metrik ini digunakan karena sistem rekomendasi dibangun menggunakan algoritma pengelompokkan bukan menggunakan algoritma prediksi. Metrik skor silhouette menghitung seberapa baiknya algoritma dalam mengelompokkan data dengan nilai terbaik 1 dan terburuk -1.
 
