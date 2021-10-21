@@ -117,7 +117,8 @@ Hasil rekomendasi diperoleh dengan mencari rekomendasi pada masing-masing rekome
 2. Hasil rekomendasi kelas rekomendasi euclidian dengan 5 rekomendasi terbaik \
 ![recEd](https://user-images.githubusercontent.com/82726099/137630754-6c6f90c4-e174-437e-99b6-b7afe255e311.PNG)
 3. Hasil rekomendasi kelas rekomendasi cosine similarity dengan 5 rekomendasi \
-![recMh](https://user-images.githubusercontent.com/82726099/137630781-68e97985-e5c0-4dc3-a464-5dba0df2166a.PNG)
+![recCs](https://user-images.githubusercontent.com/82726099/138327971-5a946cab-5106-4c19-a795-b65a40f655b0.PNG)
+
 
 ## Evaluation
 
