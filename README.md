@@ -130,4 +130,5 @@ Berikut merupakan nilai silhouette_score pada masing-masing sistem rekomendasi m
 *   Manhattan : 0.5271553435109945
 *   Cosine    : -0.0821256460960992
 
-Evaluasi cosine_similarity terdapat tanda negatif yang mana merekomendasikan lagu dengan tingkat kemiripan rendah dan  kelompok lagu yang salah
+Evaluasi cosine_similarity terdapat tanda negatif yang mana merekomendasikan lagu dengan tingkat kemiripan rendah dan  kelompok lagu yang salah.
+Hasil rekomendasi terbaik diperoleh dari sistem rekomendasi menggunakan perhitungan jarak Euclidian dan Manhattan dengan nilai 0.53, sementara kegagalan terjadi pada sistem rekomendasi menggunakan perhitungan jarak cosine similarity yang salah dalam mengelompokkan data.
