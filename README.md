@@ -38,8 +38,6 @@ Dataset yang digunakan merupakan dataset yang menjelaskan fitur-fitur musik pada
 
 ---
 
-Penjelasan Atribut \
-
 Fitur-fitur pada dataset spotifyDataset.csv
 *   danceability : mendeskripsikan kecocokan musik dengan tarian 0(least danceable)-1(most danceable)
 *   energy : 0-1 pengukuran persepsi aktivitas dan intensitas, musik cepat, keras, ataupun berantakan
